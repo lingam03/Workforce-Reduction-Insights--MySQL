@@ -121,7 +121,7 @@ SET SQL_SAFE_UPDATES = 1;
 
                                   --       DUPLICATE REMOVING IS completed           --
                                   
-                                  --                STANDING DATA                    --
+                                  --                STANDIZING DATA                    --
                                   
 # Stadizing DATA:  In simple fixing issues in it...
 
