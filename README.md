@@ -1,4 +1,4 @@
-Projects Overview Of Layoff Dataset Analysis
+Projects Overview Of Workforce Reduction Insights
 
 •	Data Summary: The dataset included fields such as company name, location, industry, date of layoffs, number of employees laid off, and total workforce.
 
